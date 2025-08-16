@@ -1,10 +1,10 @@
 # PROJETO: Análise e Previsão de Churn - Telecom X
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-data_analysis-brightgreen?logo=pandas)]
-[![Seaborn](https://img.shields.io/badge/Seaborn-visualization-blue?logo=seaborn)]
-[![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-machine_learning-yellow?logo=scikit-learn)]
-[![NumPy](https://img.shields.io/badge/NumPy-numerical-blueviolet?logo=numpy)]
+[![Pandas](https://img.shields.io/badge/Pandas-data_analysis-brightgreen?logo=pandas)](https://pandas.pydata.org/docs/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-visualization-blue?logo=seaborn)](https://seaborn.pydata.org/)
+[![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-machine_learning-yellow?logo=scikit-learn)](https://scikit-learn.org/stable/)
+[![NumPy](https://img.shields.io/badge/NumPy-numerical-blueviolet?logo=numpy)](https://numpy.org/doc/)
 
 # 🎯 **Objetivo**
 Este projeto tem como propósito prever a **evasão de clientes (churn)** em uma empresa de telecomunicações fictícia — a **Telecom X** — utilizando técnicas de **Machine Learning** e **análise exploratória de dados**. Este projeto foi criado para o challenge 3 do programa da **Oracle One**, formação de Data Science, do qual faço parte.
