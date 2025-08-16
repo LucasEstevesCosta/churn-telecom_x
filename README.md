@@ -1,6 +1,6 @@
 # PROJETO: Análise e Previsão de Churn - Telecom X
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)(https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-data_analysis-brightgreen?logo=pandas)]
 [![Seaborn](https://img.shields.io/badge/Seaborn-visualization-blue?logo=seaborn)]
 [![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-machine_learning-yellow?logo=scikit-learn)]
